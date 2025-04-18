@@ -7,10 +7,10 @@ I'm a **Naval Architect** and **CG Engineer** working at the **Marine Safety Cen
 Right now, I’m building a **VS Code extension** for reading and working with **GHS (General Hydrostatics)** code—because ship stability deserves better tools. This is part of a broader mission to bridge solid engineering with approachable software. I'm new to coding, but that hasn't stopped me from diving in and making things that actually help.
 
 ### 💬 A Little More About Me
-- 🇺🇸 I work on small vessel stability and structural reviews in the Coast Guard
-- 🛠 Love going outside, camping, my family and pretty boats 
+- 🚤 I work on small vessel stability and structural reviews in the Coast Guard
+- ⛺ Love going outside, camping, my family and pretty boats 
 - 🎓 **University of Michigan** alum — *Go Blue! 💙💛*
-- 🧠 Self-taught coder focused on practical tools over buzzwords (Java and TypeScript? Eh, not for me)
+- 🧠 Self-taught coder (in training) 
 
 ### 🧰 Currently Learning
 - Custom syntax highlighting and UI inside VS Code
