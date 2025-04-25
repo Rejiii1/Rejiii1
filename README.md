@@ -4,7 +4,13 @@
 I'm a **Naval Architect** and **CG Engineer** working at the **Marine Safety Center – Small Vessel Branch** in Washington, DC.
 
 ### ⚓ What I’m Into
-Right now, I’m building a **VS Code extension** for reading and working with **GHS (General Hydrostatics)** code—because ship stability deserves better tools. This is part of a broader mission to bridge solid engineering with approachable software. I'm new to coding, but that hasn't stopped me from diving in and making things that actually help.
+Right now, I'm merging real-world engineering with better digital tools. I'm building:
+
+- **🔧 [GHS Syntax Toolkit (VS Code Extension)](https://github.com/Rejiii1/ghs-vscode)** — a custom Visual Studio Code extension for working with **GHS (General Hydrostatics)** code. Syntax highlighting, code structure clarity, and a smoother dev experience for hydro geeks like me.
+- **🍽 [MealFinderrz](https://github.com/Rejiii1/Weekly-Menu-2)** — a mobile-friendly meal planning and grocery list app designed for actual humans. Drag-and-drop meals, automatic grocery lists, and zero fluff.
+
+These projects are part of a broader mission to build tools that make work (and life) easier, and to learn some coding in the process. 
+
 
 ### 💬 A Little More About Me
 - 🚤 I work on small vessel stability and structural reviews in the Coast Guard
@@ -15,6 +21,7 @@ Right now, I’m building a **VS Code extension** for reading and working with *
 ### 🧰 Currently Learning
 - Custom syntax highlighting and UI inside VS Code
 - Real-world coding with a strong engineering mindset
+- Javascript, HTML, CSS
 
 ### 🔗 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/robert-jackson-35ba4624a)
