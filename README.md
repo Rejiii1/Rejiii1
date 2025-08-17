@@ -24,7 +24,7 @@ These projects are part of a broader mission to build tools that make work (and 
 ### 🧰 Currently Learning
 - Custom syntax highlighting and UI inside VS Code
 - Real-world coding with a strong engineering mindset
-- Javascript, HTML, CSS
+- Javascript, HTML, CSS, Python
 
 ### 🔗 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/robert-jackson-35ba4624a)
